@@ -1,0 +1,3 @@
+hello world resolution
+-write a code using html and show to world that you done! 
+-write a code using css to make my webstie look so cool!
