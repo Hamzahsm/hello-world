@@ -4,3 +4,7 @@ hello world resolution
 
 but i want more! 
 -let put some javascript file to my website, so it can be interactive! 
+
+i will add the css about color of font 
+font family 
+and the padding 
