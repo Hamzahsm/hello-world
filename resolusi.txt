@@ -1,11 +1,13 @@
 hello world resolution
 -write a code using html and show to world that you done! 
+
 -write a code using css to make my webstie look so cool!
+i will add some font family and choose for their color! 
 
 but i want more! 
 -let put some javascript file to my website, so it can be interactive! 
 
-
 for html 
 i will add some <ol> to the field and some anchor <a> to the field
 may be i will add some <h1> to the title of the tex
+
