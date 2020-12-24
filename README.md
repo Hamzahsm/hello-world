@@ -1,5 +1,6 @@
 # hello-world
-My first project using github
+Hallo guys!
 
-My name is hamzah saiful 
-i'm trying to be a Front-end Developer and learn from open source. 
+this is will be my first project using a github. 
+the idea is i will make a list of buttons so you can click it. 
+than see what happen! 
