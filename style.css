@@ -1,7 +1,179 @@
-.body {
-  color: black;
-} 
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
-.conain {
-  background-color: white;
-} 
+header {
+  text-align : center;
+}
+
+header h1 {
+  font-size: 20px; 
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
+.gambar {
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box; 
+  border-radius: 50px; 
+}
+
+.button {
+  margin: 30px auto; 
+  width: 100%;
+  display: flex;
+  font-size: 10px; 
+}
+
+.red {
+  height: 40px;
+  width: 40px; 
+  background-color: red;
+  text-align: center; 
+  line-height: 40px;
+  border-radius: 50px;
+  color: white;
+  border: 1px solid white;
+  margin-left: 10px; 
+}
+
+.blue {
+  height: 40px; 
+  width: 40px;
+  background-color: blue;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50px;
+  margin-right: 10px;
+  margin-left: 10px; 
+  color: white;
+  border: 1px solid white;
+}
+
+.black {
+  height: 40px;
+  width: 40px;
+  background-color: black;
+  text-align: center; 
+  line-height: 40px;
+  border-radius: 50px; 
+  color: white; 
+  border: 1px solid white; 
+}
+
+.normal {
+  height: 40px;
+  width: 40px;
+  backgorund-color: white;
+  border: 1px solid black;
+  color: black; 
+  border-radius: 50px; 
+  text-align: center; 
+  line-height: 40px; 
+  margin-left: 10px;
+  margin-right: 10px;  
+}
+
+.button h3 {
+  line-height: 40px; 
+}
+
+.background {
+  width: 100%; 
+  font-size: 10px; 
+  display: flex; 
+  text-align: center; 
+}
+
+.background h3 {
+  line-height: 40px;
+  margin-left: 50%;
+}
+
+.animal {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  background-color: red;
+  border-radius: 50px;
+  margin-left: 10px; 
+  color: white;
+  border: 1px solid white; 
+}
+
+.nature {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  background-color: green;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid white; 
+  color: white; 
+}
+
+.sea {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  background-color: blue; 
+  border-radius: 50px;
+  color: white;
+  border: 1px solid white;
+}
+
+.bringmethehorizon {
+  height: 40px; 
+  width: 40px;
+  line-height: 40px;
+  background-color: black;
+  border-radius: 50px;
+  margin-left: 10px;
+  margin-right: 10px; 
+  color: white;
+  border: 1px solid white; 
+}
+
+.asal {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  background-color: white; 
+  border-radius: 50px; 
+  border: 1px solid black; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer p {
+  font-size: 9px;
+}
+
+footer aside {
+  font-size: 10px; 
+}
+footer {
+  position : fixed;
+  bottom: 0;
+  background-color: rgb(9, 9, 80); 
+  z-index: -2; 
+  height: 40px;
+  width: 100%; 
+  color: white; 
+  box-sizing: border-box; 
+  padding: 10px; 
+  text-align: center; 
+}
