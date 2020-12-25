@@ -25,6 +25,7 @@ header h1 {
   width: 100%;
   display: flex;
   font-size: 10px; 
+  cursor: pointer; 
 }
 
 .red {
