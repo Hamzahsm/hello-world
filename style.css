@@ -13,15 +13,27 @@ header h1 {
   margin-top: 20px;
   margin-bottom: 20px; 
 }
-.gambar {
+header img {
   width: 50px;
   height: 50px;
-  box-sizing: border-box; 
+  box-sizing: border-box;  
   border-radius: 50px; 
 }
 
+
+
+header .tiger,.seaa,.olii,.bmthh,.homee {
+  position: absolute; 
+  right: 47%; 
+}
+
+
+
+
+
+
 .button {
-  margin: 30px auto; 
+  margin: 50px auto; 
   width: 100%;
   display: flex;
   font-size: 10px; 
@@ -67,7 +79,7 @@ header h1 {
 .normal {
   height: 40px;
   width: 40px;
-  backgorund-color: white;
+  background-color: white;
   border: 1px solid black;
   color: black; 
   border-radius: 50px; 
@@ -86,6 +98,8 @@ header h1 {
   font-size: 10px; 
   display: flex; 
   text-align: center; 
+  margin-top: -30px; 
+  cursor: pointer; 
 }
 
 .background h3 {
@@ -104,6 +118,18 @@ header h1 {
   border: 1px solid white; 
 }
 
+.animal:hover {
+  background-color: rgb(170, 6, 6); 
+}
+
+
+.animal img {
+  width:  50px;
+  height: 50px; 
+  border-radius: 50px; 
+  display: none; 
+}
+
 .nature {
   height: 40px;
   width: 40px;
@@ -116,6 +142,10 @@ header h1 {
   color: white; 
 }
 
+.nature:hover {
+  background-color: rgb(13, 92, 13);
+}
+
 .sea {
   height: 40px;
   width: 40px;
@@ -126,7 +156,12 @@ header h1 {
   border: 1px solid white;
 }
 
-.bringmethehorizon {
+
+.sea:hover {
+  background-color: rgb(24, 24, 133); 
+}
+
+.bmth {
   height: 40px; 
   width: 40px;
   line-height: 40px;
@@ -138,6 +173,10 @@ header h1 {
   border: 1px solid white; 
 }
 
+
+.bmth:hover {
+  background-color: rgb(94, 89, 89); 
+}
 .asal {
   height: 40px;
   width: 40px;
@@ -147,7 +186,9 @@ header h1 {
   border: 1px solid black; 
 }
 
-
+.asal:hover {
+  background-color: rgb(199, 193, 193); 
+}
 
 
 

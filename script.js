@@ -3,4 +3,8 @@ const blueButton = document.querySelector('.blue').addEventListener('click', () 
 const blackButton = document.querySelector('.black').addEventListener('click', () => document.body.style.backgroundColor = 'black');
 const normalButton = document.querySelector('.normal').addEventListener('click', () => document.body.style.backgroundColor = 'white'); 
 
-console.log('hello world'); 
+
+const bckNature = document.querySelector('.nature');
+const bckSea = document.querySelector('.sea');
+const bckBmth = document.querySelector('.bmth');
+const bckAsal = document.querySelector('.asal'); 
